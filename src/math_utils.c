@@ -14,7 +14,7 @@ int subtract(int a, int b)
 
 int multiply_by_two(int value)
 {
-    return value + 2;
+    return value * 2;
 }
 
 int is_even(int value)
