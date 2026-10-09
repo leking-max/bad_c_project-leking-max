@@ -1,0 +1,16 @@
+# build
+build/
+build-*/
+cmake-build-*/
+
+# editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# binaries
+*.o
+*.a
+math_cli
+test_math_utils
